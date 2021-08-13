@@ -5,8 +5,8 @@
   [Age] [float] NULL,
   [Income] [float] NULL,
   [FamilySize] [float] NULL,
-  [Address] [varchar](30) NULL,
-  [City] [varchar](50) NULL,
+  [Address] [varchar](40) NULL,
+  [City] [varchar](60) NULL,
   [country] [varchar](50) NULL
 )
 ON [PRIMARY]
